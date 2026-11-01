@@ -92,7 +92,7 @@ Expected results include:
 
 ## Deployment
 
-**Deployed application URL:** `[ADD_DEPLOYMENT_URL_HERE]`
+**Deployed application URL:** `https://file-sharing-platform-oua6.onrender.com/`
 
 Deploy to Render, Railway, or another Node.js hosting platform.
 
